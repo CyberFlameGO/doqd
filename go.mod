@@ -6,7 +6,7 @@ require (
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/lucas-clemente/quic-go v0.24.0
 	github.com/miekg/dns v1.1.43
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
 )
